@@ -6,6 +6,8 @@
    :target: https://gitlab.com/durko/flake8-pyprojecttoml/-/commits/master
    :alt: coverage report
 
+This is a mirror of Marko Durkovic's repo on gitlab: https://gitlab.com/durko/flake8-pyprojecttoml
+all issues and pull requests should go to that repo, not here.
 
 ====================
 flake8-pyprojecttoml
