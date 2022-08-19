@@ -9,6 +9,17 @@
 This is a mirror of Marko Durkovic's repo on gitlab: https://gitlab.com/durko/flake8-pyprojecttoml
 all issues and pull requests should go to that repo, not here.
 
+**flake8 5 support** 
+
+If you're here for the flake8 5.0 support, you can add the following to your pre-commit config or dev dependencies::
+
+
+   flake8-pyprojecttoml @ git+https://github.com/tlambert03/flake8-pyprojecttoml.git@main
+
+
+see also, the merge request that fixes it: https://gitlab.com/durko/flake8-pyprojecttoml/-/merge_requests/1
+
+
 ====================
 flake8-pyprojecttoml
 ====================
